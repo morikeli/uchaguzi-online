@@ -4,7 +4,7 @@ cycler==0.11.0
 Django==4.2.25
 django-crispy-forms==1.14.0
 django-environ==0.10.0
-fonttools==4.43.0
+fonttools==4.61.0
 gunicorn==23.0.0
 importlib-resources==5.12.0
 kiwisolver==1.4.4
